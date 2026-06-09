@@ -1,0 +1,8 @@
+{
+  "name": "edge-cold-start-vercel-nodejs",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "darckfast",
+  "type": "module",
+  "main": "server.ts"
+}
